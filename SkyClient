@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zedion69/Sky-Client/refs/heads/main/gamechecker.txt",true))();loadstring(game:HttpGet("https://raw.githubusercontent.com/Zedion69/Sky-Client/refs/heads/main/script.txt",true))()
