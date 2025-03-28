@@ -1,3 +1,25 @@
+local lengthtabthing = 130
+local screenGui = Instance.new("ScreenGui")
+screenGui.Parent = game.CoreGui
+
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(1, 0, 0, 50)
+frame.Position = UDim2.new(0, 0, 0, 0)
+frame.BackgroundTransparency = 1
+frame.Parent = screenGui
+
+local textLabel = Instance.new("TextLabel")
+textLabel.Size = UDim2.new(1, 0, 1, 0)
+textLabel.Position = UDim2.new(0, 0, 0, 0) 
+textLabel.BackgroundTransparency = 1 
+textLabel.Text = "Sky Client V1.0: https://github.com/Zedion69/Sky-Client" 
+textLabel.TextTransparency = 0.5
+textLabel.TextColor3 = Color3.fromRGB(255, 255, 255) 
+textLabel.TextSize = 20
+textLabel.Font = Enum.Font.Gotham
+textLabel.TextStrokeTransparency = 1
+textLabel.Parent = frame
+
 -- if this code looks ai generated i couldn't fix a bug in my code, i checked everywhere and decided to use ai to help me fix my script. (it changed some stuff tho)
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "⚠️ WARNING ⚠️ ", -- Required
@@ -120,7 +142,6 @@ if enablebackgroundsound then
 end
 
 local theme = Color3.fromRGB(180, 104, 255)
-local lengthtabthing = 40
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
@@ -229,10 +250,10 @@ local function createToggle(name, parent, onActivate, onDeactivate)
     end)
 end
 
-local combat = createTab("Combat", UDim2.new(0, 50, 0, 50))
-local blatant = createTab("Blatant", UDim2.new(0, 50 + 100, 0, 50))
-local visual = createTab("Visual", UDim2.new(0, 50 + 100 + 100, 0, 50))
-local world = createTab("World", UDim2.new(0, 50 + 100 + 100 + 100, 0, 50))
+local combat = createTab("Combat", UDim2.new(0, lengthtabthing + 50, 0, 50))
+local blatant = createTab("Blatant", UDim2.new(0, lengthtabthing + 50 + 100, 0, 50))
+local visual = createTab("Visual", UDim2.new(0, lengthtabthing + 50 + 100 + 100, 0, 50))
+local world = createTab("World", UDim2.new(0, lengthtabthing + 50 + 100 + 100 + 100, 0, 50))
 
 local player = game.Players.LocalPlayer
 local camera = workspace.CurrentCamera
@@ -486,7 +507,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local RunService = game:GetService("RunService")
 
-local detectionRange = 20
+local detectionRange = 30
 local swordName = "Sword"
 local spinningEnabled = false
 local heartbeatConnection
@@ -540,14 +561,14 @@ end
 local function spinPlayer()
     local humanoidRootPart = LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
     if humanoidRootPart then
-        humanoidRootPart.CFrame = humanoidRootPart.CFrame * CFrame.Angles(0, math.rad(100), 0)
+        humanoidRootPart.CFrame = humanoidRootPart.CFrame * CFrame.Angles(0, math.rad(0), 0)
     end
 end
 
 local function disablePlayerControls()
     local humanoid = LocalPlayer.Character:FindFirstChild("Humanoid")
     if humanoid then
-        humanoid.AutoRotate = false
+        print("s")
     end
 end
 
@@ -584,8 +605,8 @@ function stopKillaura()
     unequipSword()
 end
 
-createToggle("PermReach", blatant, function()
-    local range = 13
+createToggle("ReachBypass", combat, function()
+    local range = 12
     game:GetService("RunService").RenderStepped:Connect(function()
         local p = game.Players:GetPlayers()
         for i = 2, #p do 
@@ -619,7 +640,47 @@ createToggle("AirJump", blatant, function()
 end, function()
     InfiniteJumpEnabled = false
 end)
+local advertisespam = false
+while advertisespam do
+  wait(4)
+  game.TextChatService.TextChannels.RBXGeneral:SendAsync("skyclient is cool")
+end
+createToggle("Advertise", blatant, function()
+    advertisespam = true
+end, function()
+    advertisespam = false
+end)
 
+createToggle("InfiniteReach", blatant, function()
+    local range = 5000000000000
+    game:GetService("RunService").RenderStepped:Connect(function()
+        local p = game.Players:GetPlayers()
+        for i = 2, #p do 
+            local v = p[i].Character
+            if v and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 and v:FindFirstChild("HumanoidRootPart") and player:DistanceFromCharacter(v.HumanoidRootPart.Position) <= range then
+                local tool = player.Character and player.Character:FindFirstChildOfClass("Tool")
+                if tool and tool:FindFirstChild("Handle") then
+                    tool:Activate()
+                    for i, v in next, v:GetChildren() do
+                        if v:IsA("BasePart") then
+                            firetouchinterest(tool.Handle, v, 0)
+                            firetouchinterest(tool.Handle, v, 1)
+                        end
+                    end
+                end
+            end
+        end
+    end)
+end, function()
+end)
+
+local oldfov = game:GetService("Workspace").CurrentCamera.FieldOfView
+
+createToggle("FOV", visual, function()
+    game:GetService("Workspace").CurrentCamera.FieldOfView = 120
+end, function()
+    game:GetService("Workspace").CurrentCamera.FieldOfView = oldfov
+end)
 adjustUIScale()
 
 workspace.GameMusic:Destroy()
