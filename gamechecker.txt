@@ -1,0 +1,13 @@
+
+if game.PlaceId == 855499080 then
+      game.StarterGui:SetCore("DevConsoleVisible", true)
+      print(">>> Wrong game"); print("Detected that you are using an newer version of skywars, please go to the old version as that is the only one compatible.");print("Please go to this version: 283721918")
+end
+if game.PlaceId ~= 283721918 then
+      game.StarterGui:SetCore("DevConsoleVisible", true)
+      print(">>> Wrong game"); print("Detected that you are in a game that is not skywars, some modules may work, but note that this isn't compatible.");print("Skywars [CLASSIC]: 283721918")
+end
+if game.PlaceId == 8542259458 then
+      game.StarterGui:SetCore("DevConsoleVisible", true)
+      print("bro")
+end
