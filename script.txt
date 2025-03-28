@@ -1,1 +1,625 @@
-do obf_cached_str[580]=LUAOBFUSACTOR_DECRYPT_STR_0("\174\193\194\52\92\169\207\211\58","\47\217\174\176\95");obf_cached_str[579]=LUAOBFUSACTOR_DECRYPT_STR_0("\12\229\57\240\29\209\146","\226\77\140\75\186\104\188");obf_cached_str[578]=LUAOBFUSACTOR_DECRYPT_STR_0("\194\56\164\95\123\178\198","\216\136\77\201\47\18\220\161");obf_cached_str[576]=LUAOBFUSACTOR_DECRYPT_STR_0("\90\253\201\162\5\76\112\118","\25\18\136\164\195\107\35");obf_cached_str[572]=LUAOBFUSACTOR_DECRYPT_STR_0("\30\71\63\204\84\3\239","\156\78\43\94\181\49\113");obf_cached_str[570]=LUAOBFUSACTOR_DECRYPT_STR_0("\164\167\194\207","\203\195\198\175\170\93\71\237");obf_cached_str[567]=LUAOBFUSACTOR_DECRYPT_STR_0("\61\47\31\82\45\3\237\29\40\41\69\22\27\244\11\57","\157\104\92\122\32\100\109");obf_cached_str[565]=LUAOBFUSACTOR_DECRYPT_STR_0("\209\116\36\166","\118\182\21\73\195\135\236\204");obf_cached_str[562]=LUAOBFUSACTOR_DECRYPT_STR_0("\130\66\22\235\144\66\23\250","\142\192\35\101");obf_cached_str[558]=LUAOBFUSACTOR_DECRYPT_STR_0("\112\196\89\254\79\54","\151\56\165\55\154\35\83");obf_cached_str[556]=LUAOBFUSACTOR_DECRYPT_STR_0("\218\178\247\143","\185\142\221\152\227\34");obf_cached_str[549]=LUAOBFUSACTOR_DECRYPT_STR_0("\149\242\41\167\201\83\180\227\22\169\200\72\141\230\54\178","\60\221\135\68\198\167");obf_cached_str[545]=LUAOBFUSACTOR_DECRYPT_STR_0("\205\168\90\49\193\59\236\185","\84\133\221\55\80\175");obf_cached_str[540]=LUAOBFUSACTOR_DECRYPT_STR_0("\139\217\27\220","\48\236\184\118\185\216");obf_cached_str[537]=LUAOBFUSACTOR_DECRYPT_STR_0("\206\66\243\102\86\104\234\94\254\80","\26\156\55\157\53\51");obf_cached_str[535]=LUAOBFUSACTOR_DECRYPT_STR_0("\41\130\29\67","\186\78\227\112\38\73");obf_cached_str[534]=LUAOBFUSACTOR_DECRYPT_STR_0("\25\169\34\53\27\169\49\59\33","\88\73\204\80");obf_cached_str[527]=LUAOBFUSACTOR_DECRYPT_STR_0("\20\200\206\18\59\51\212\199","\85\92\189\163\115");obf_cached_str[523]=LUAOBFUSACTOR_DECRYPT_STR_0("\118\212\166\39\193\81\200\175","\175\62\161\203\70");obf_cached_str[519]=LUAOBFUSACTOR_DECRYPT_STR_0("\33\120\240\80","\56\76\25\132");obf_cached_str[515]=LUAOBFUSACTOR_DECRYPT_STR_0("\2\61\172\66\120\37\33\165\113\121\37\60\145\66\100\62","\22\74\72\193\35");obf_cached_str[511]=LUAOBFUSACTOR_DECRYPT_STR_0("\222\186\43\239","\95\138\213\68\131\32");obf_cached_str[489]=LUAOBFUSACTOR_DECRYPT_STR_0("\108\87\154\225\79\126\129\231\70\92","\130\42\56\232");obf_cached_str[486]=LUAOBFUSACTOR_DECRYPT_STR_0("\156\156\221\47\50\162\60\176","\85\212\233\176\78\92\205");obf_cached_str[483]=LUAOBFUSACTOR_DECRYPT_STR_0("\172\66\243\91\138\88\247\94\182\88\241\78\180\86\236\78","\58\228\55\158");obf_cached_str[478]=LUAOBFUSACTOR_DECRYPT_STR_0("\58\175\161\162\55\6\3\167","\115\113\198\205\206\86");obf_cached_str[477]=LUAOBFUSACTOR_DECRYPT_STR_0("\201\91\237\238\115","\23\154\44\130\156");obf_cached_str[476]=LUAOBFUSACTOR_DECRYPT_STR_0("\159\63\93\127\179\191\60\90\79\179","\214\205\74\51\44");obf_cached_str[474]=LUAOBFUSACTOR_DECRYPT_STR_0("\189\135\116\246","\68\218\230\25\147\63\174");obf_cached_str[472]=LUAOBFUSACTOR_DECRYPT_STR_0("\28\92\93\161\198\185\49","\66\76\48\60\216\163\203");obf_cached_str[470]=LUAOBFUSACTOR_DECRYPT_STR_0("\71\169\170\230","\112\32\200\199\131");obf_cached_str[467]=LUAOBFUSACTOR_DECRYPT_STR_0("\220\51\17\29\35\53\240\54","\64\157\70\101\114\105");obf_cached_str[461]=LUAOBFUSACTOR_DECRYPT_STR_0("\110\22\228\45\93\25\79\7","\118\38\99\137\76\51");obf_cached_str[445]=LUAOBFUSACTOR_DECRYPT_STR_0("\180\188\240\202\213\19\113\123\166","\24\195\211\130\161\166\99\16");obf_cached_str[441]=LUAOBFUSACTOR_DECRYPT_STR_0("\195\208\188\224\192\228\204\181","\174\139\165\209\129");obf_cached_str[428]=LUAOBFUSACTOR_DECRYPT_STR_0("\33\8\242\4","\108\76\105\134");obf_cached_str[425]=LUAOBFUSACTOR_DECRYPT_STR_0("\224\255\25\251","\183\141\158\109\147\152");obf_cached_str[422]=LUAOBFUSACTOR_DECRYPT_STR_0("\162\202\213\198","\174\207\171\161");obf_cached_str[419]=LUAOBFUSACTOR_DECRYPT_STR_0("\164\9\202\137","\95\201\104\190\225");obf_cached_str[409]=LUAOBFUSACTOR_DECRYPT_STR_0("\40\163\41\122\31\162\52\119","\19\105\205\93");obf_cached_str[405]=LUAOBFUSACTOR_DECRYPT_STR_0("\90\180\175\130","\231\61\213\194");obf_cached_str[396]=LUAOBFUSACTOR_DECRYPT_STR_0("\59\134\182\80","\36\107\231\196");obf_cached_str[391]=LUAOBFUSACTOR_DECRYPT_STR_0("\43\127\27\94\5\92","\63\104\57\105");obf_cached_str[379]=LUAOBFUSACTOR_DECRYPT_STR_0("\1\154\126\90\220\156\177\202\35\132\120\90","\184\85\237\27\63\178\207\212");obf_cached_str[377]=LUAOBFUSACTOR_DECRYPT_STR_0("\163\225\64\182","\96\196\128\45\211\132");obf_cached_str[369]=LUAOBFUSACTOR_DECRYPT_STR_0("\209\1\203\253\130\174\249\49\203\27\201\232\188\160\226\33","\85\153\116\166\156\236\193\144");obf_cached_str[364]=LUAOBFUSACTOR_DECRYPT_STR_0("\32\53\177\212","\230\77\84\197\188\22\207\183");obf_cached_str[361]=LUAOBFUSACTOR_DECRYPT_STR_0("\162\139\8\203","\22\197\234\101\174\25");obf_cached_str[360]=LUAOBFUSACTOR_DECRYPT_STR_0("\4\196\203\27\252\206\228\78\30\222\201\14\194\192\255\94","\42\76\177\166\122\146\161\141");obf_cached_str[352]=LUAOBFUSACTOR_DECRYPT_STR_0("\131\64\192\24\47\141\178\69\211\20\34\187","\222\215\55\165\125\65");obf_cached_str[350]=LUAOBFUSACTOR_DECRYPT_STR_0("\114\176\86\79","\182\21\209\59\42");obf_cached_str[348]=LUAOBFUSACTOR_DECRYPT_STR_0("\57\100\49\162\50\76","\110\122\34\67\195\95\41\133");obf_cached_str[331]=LUAOBFUSACTOR_DECRYPT_STR_0("\44\250\169\194\63\85\13\235\150\204\62\78\52\238\182\215","\58\100\143\196\163\81");obf_cached_str[326]=LUAOBFUSACTOR_DECRYPT_STR_0("\49\68\200\188","\109\92\37\188\212\154\29");obf_cached_str[323]=LUAOBFUSACTOR_DECRYPT_STR_0("\217\165\86\73","\40\190\196\59\44\36\188");obf_cached_str[322]=LUAOBFUSACTOR_DECRYPT_STR_0("\21\193\183\220\121\65\46\86\15\219\181\201\71\79\53\70","\50\93\180\218\189\23\46\71");obf_cached_str[318]=LUAOBFUSACTOR_DECRYPT_STR_0("\191\129\57\190\254\132\111\159","\29\235\228\85\219\142\235");obf_cached_str[313]=LUAOBFUSACTOR_DECRYPT_STR_0("\67\223\140\140\187","\118\16\175\233\233\223");obf_cached_str[310]=LUAOBFUSACTOR_DECRYPT_STR_0("\195\255\34\133\32\227\252\37\181\32","\69\145\138\76\214");obf_cached_str[308]=LUAOBFUSACTOR_DECRYPT_STR_0("\221\136\82\7","\141\186\233\63\98\108");obf_cached_str[300]=LUAOBFUSACTOR_DECRYPT_STR_0("\222\227\116\0\136\211\255\242\75\14\137\200\198\247\107\21","\188\150\150\25\97\230");obf_cached_str[298]=LUAOBFUSACTOR_DECRYPT_STR_0("\238\45\180\55\183\13\207\60","\98\166\88\217\86\217");obf_cached_str[284]=LUAOBFUSACTOR_DECRYPT_STR_0("\231\125\203\50","\121\171\20\165\87\50\67");obf_cached_str[277]=LUAOBFUSACTOR_DECRYPT_STR_0("\238\220\130\218","\138\166\185\227\190\78");obf_cached_str[270]=LUAOBFUSACTOR_DECRYPT_STR_0("\246\58\47\23\10\214\57\40\39\10","\111\164\79\65\68");obf_cached_str[268]=LUAOBFUSACTOR_DECRYPT_STR_0("\83\117\11\54","\24\52\20\102\83\46\52");obf_cached_str[266]=LUAOBFUSACTOR_DECRYPT_STR_0("\211\40\234\115\226\40\248","\16\135\90\139");obf_cached_str[263]=LUAOBFUSACTOR_DECRYPT_STR_0("\20\173\139\89","\60\115\204\230");obf_cached_str[260]=LUAOBFUSACTOR_DECRYPT_STR_0("\51\177\46\227","\134\84\208\67");obf_cached_str[259]=LUAOBFUSACTOR_DECRYPT_STR_0("\165\195\160\155\176\144\155","\228\226\177\193\237\217");obf_cached_str[256]=LUAOBFUSACTOR_DECRYPT_STR_0("\4\94\206\254","\155\99\63\163");obf_cached_str[254]=LUAOBFUSACTOR_DECRYPT_STR_0("\108\51\173\75\162\203\112\166\126","\197\27\92\223\32\209\187\17");obf_cached_str[251]=LUAOBFUSACTOR_DECRYPT_STR_0("\207\91\3\40","\227\168\58\110\77\121\184\207");obf_cached_str[249]=LUAOBFUSACTOR_DECRYPT_STR_0("\55\136\176\92\4","\48\96\231\194");obf_cached_str[247]=LUAOBFUSACTOR_DECRYPT_STR_0("\50\76\87\63\200\8","\169\100\37\36\74");obf_cached_str[245]=LUAOBFUSACTOR_DECRYPT_STR_0("\199\213\9\39\39\235\205","\70\133\185\104\83");obf_cached_str[243]=LUAOBFUSACTOR_DECRYPT_STR_0("\107\126\185\252\196\92","\165\40\17\212\158");obf_cached_str[241]=LUAOBFUSACTOR_DECRYPT_STR_0("\12\143\146\59\139\61\190\197\55\178","\160\89\198\213\73\234\89\215");obf_cached_str[232]=LUAOBFUSACTOR_DECRYPT_STR_0("\27\23\74\90\213\146\31\59\29\92","\107\79\114\50\46\151\231");obf_cached_str[191]=LUAOBFUSACTOR_DECRYPT_STR_0("\13\118\97\85\236\44\103\109\78\192","\174\89\19\25\33");obf_cached_str[174]=LUAOBFUSACTOR_DECRYPT_STR_0("\254\84\1\126\174","\203\184\38\96\19\203");obf_cached_str[166]=LUAOBFUSACTOR_DECRYPT_STR_0("\150\101\166\14\189\11\170\73\143\8","\111\195\44\225\124\220");obf_cached_str[153]=LUAOBFUSACTOR_DECRYPT_STR_0("\122\124\88\1\92\65\88\9\86\90\97\28","\104\47\53\20");obf_cached_str[147]=LUAOBFUSACTOR_DECRYPT_STR_0("\251\52\247\78\176","\213\189\70\150\35");obf_cached_str[142]=LUAOBFUSACTOR_DECRYPT_STR_0("\193\187\18\15\85\237\225\170\5\21","\152\149\222\106\123\23");obf_cached_str[136]=LUAOBFUSACTOR_DECRYPT_STR_0("\181\126\63\18\221\194\245\147\116","\178\230\29\77\119\184\172");obf_cached_str[134]=LUAOBFUSACTOR_DECRYPT_STR_0("\158\227\188\165\171\253\154\169\167","\220\206\143\221");obf_cached_str[131]=LUAOBFUSACTOR_DECRYPT_STR_0("\207\125\85\175\51\204\239","\156\159\17\52\214\86\190");obf_cached_str[129]=LUAOBFUSACTOR_DECRYPT_STR_0("\10\48\56\120","\30\109\81\85\29\109");obf_cached_str[124]=LUAOBFUSACTOR_DECRYPT_STR_0("\81\170\40\29\6\240\231\89\162\61\13\0\230\231","\147\54\207\92\126\115\131");obf_cached_str[122]=LUAOBFUSACTOR_DECRYPT_STR_0("\100\87\17\208\83","\190\55\56\100");obf_cached_str[119]=LUAOBFUSACTOR_DECRYPT_STR_0("\216\204\245\215\69\216\198\242\207\72\232\198","\33\139\163\128\185");obf_cached_str[117]=LUAOBFUSACTOR_DECRYPT_STR_0("\9\172\125\225","\226\110\205\16\132\107");obf_cached_str[112]=LUAOBFUSACTOR_DECRYPT_STR_0("\35\23\161\228","\183\68\118\204\129\81\144");obf_cached_str[110]=LUAOBFUSACTOR_DECRYPT_STR_0("\75\3\140\7\41","\203\59\96\237\107\69\111\113");obf_cached_str[109]=LUAOBFUSACTOR_DECRYPT_STR_0("\18\92\225\17\103\199\57\71","\174\86\41\147\112\19");obf_cached_str[108]=LUAOBFUSACTOR_DECRYPT_STR_0("\131\45\178\194\205\64\166\139\37\167\210\203\86\166","\210\228\72\198\161\184\51");obf_cached_str[107]=LUAOBFUSACTOR_DECRYPT_STR_0("\246\228\161\214","\147\191\135\206\184");obf_cached_str[106]=LUAOBFUSACTOR_DECRYPT_STR_0("\17\77\85\5\228\89\99\35\68\16\20\246\72\42\36\79\68\72\183\72\43\36\1\101\45\183\75\42\45\77\16\8\248\93\39\97\64\94\29\183\79\38\34\78\94\0\185","\67\65\33\48\100\151\60");obf_cached_str[105]=LUAOBFUSACTOR_DECRYPT_STR_0("\230\128\196\55","\52\178\229\188\67\231\201");obf_cached_str[104]=LUAOBFUSACTOR_DECRYPT_STR_0("\152\200\82\6\96\70\50\72\165\215\11\23\13\26","\45\203\163\43\38\35\42\91");obf_cached_str[103]=LUAOBFUSACTOR_DECRYPT_STR_0("\13\161\88\20\197","\110\89\200\44\120\160\130");obf_cached_str[102]=LUAOBFUSACTOR_DECRYPT_STR_0("\35\17\60\241\248\161\182\25\18\59\246\215\186\171\31\26","\194\112\116\82\149\182\206");obf_cached_str[100]=LUAOBFUSACTOR_DECRYPT_STR_0("\214\13\84\145\11\8\61\121\240\16","\62\133\121\53\227\127\109\79");obf_cached_str[98]=LUAOBFUSACTOR_DECRYPT_STR_0("\133\79\82\90","\62\226\46\63\63\208\169");obf_cached_str[96]=LUAOBFUSACTOR_DECRYPT_STR_0("\191\116\239\240","\237\216\21\130\149");obf_cached_str[90]=LUAOBFUSACTOR_DECRYPT_STR_0("\244\6\61\19\151\75\12\121\254\2\58\3\135\76","\22\147\99\73\112\226\56\120");obf_cached_str[88]=LUAOBFUSACTOR_DECRYPT_STR_0("\79\248\60\56\55","\196\28\151\73\86\83");obf_cached_str[82]=LUAOBFUSACTOR_DECRYPT_STR_0("\48\201\98\66\7\245\114\94\21\207\116\73","\44\99\166\23");obf_cached_str[80]=LUAOBFUSACTOR_DECRYPT_STR_0("\233\246\175\53","\80\142\151\194");obf_cached_str[77]=LUAOBFUSACTOR_DECRYPT_STR_0("\29\180\133\8","\109\122\213\232");obf_cached_str[68]=LUAOBFUSACTOR_DECRYPT_STR_0("\239\194\80\250\138\195\211\238\121\252","\167\186\139\23\136\235");obf_cached_str[44]=LUAOBFUSACTOR_DECRYPT_STR_0("\234\162\221\201\95\240\95\11\210","\110\190\199\165\189\19\145\61");obf_cached_str[35]=LUAOBFUSACTOR_DECRYPT_STR_0("\119\199\126\146\67\234\80\133\76\250","\224\34\142\57");obf_cached_str[31]=LUAOBFUSACTOR_DECRYPT_STR_0("\166\238\131\123\53","\118\224\156\226\22\80\136\214");obf_cached_str[28]=LUAOBFUSACTOR_DECRYPT_STR_0("\65\77\204\166","\168\38\44\161\195\150");obf_cached_str[26]=LUAOBFUSACTOR_DECRYPT_STR_0("\180\247\22\35\167\137\211\17\47","\194\231\148\100\70");obf_cached_str[24]=LUAOBFUSACTOR_DECRYPT_STR_0("\223\131\58\132\127\192\129\38\234\104","\60\140\200\99\164");obf_cached_str[19]=LUAOBFUSACTOR_DECRYPT_STR_0("\0\18\129\1\68\34\57\149\17","\33\80\126\224\120");obf_cached_str[15]=LUAOBFUSACTOR_DECRYPT_STR_0("\100\169\240\99\75\57\94\164\231\99\75\40\16\181\253\42\87\110\67\162\231\42\84\58\16\168\230\99\94\33\84\168\240\45\8\110\73\174\224\99\71\47\94\225\209\14\4\35\85\225\244\55\30\110\112\187\240\39\77\33\94\241\172","\78\48\193\149\67\36");obf_cached_str[14]=LUAOBFUSACTOR_DECRYPT_STR_0("\50\26\74\211","\235\102\127\50\167\204\18");obf_cached_str[12]=LUAOBFUSACTOR_DECRYPT_STR_0("\54\118\95\2\118","\19\98\31\43\110");obf_cached_str[11]=LUAOBFUSACTOR_DECRYPT_STR_0("\118\173\187\216\164\181\81\161\179\213\137\187\81\161\186\210","\218\37\200\213\188\234");obf_cached_str[9]=LUAOBFUSACTOR_DECRYPT_STR_0("\119\246\82\148\36\161\11\27\81\235","\92\36\130\51\230\80\196\121");obf_cached_str[7]=LUAOBFUSACTOR_DECRYPT_STR_0("\191\143\29\17\21\152\132\6\11\69\159\199\3\3\70\203\180\36\39\118\162\161\61\33\116\167\171\45\66\81\142\148\29\5\91\142\131\84\4\90\153\199\57\45\119\162\171\49\66\113\174\177\61\33\112\184\203\84\12\90\159\199\55\45\120\187\178\32\39\103\203\163\49\52\124\168\162\39\76","\53\235\231\116\98");obf_cached_str[6]=LUAOBFUSACTOR_DECRYPT_STR_0("\246\46\10\214","\162\162\75\114");obf_cached_str[4]=LUAOBFUSACTOR_DECRYPT_STR_0("\235\223\149\243\44","\73\191\182\225\159");obf_cached_str[3]=LUAOBFUSACTOR_DECRYPT_STR_0("\220\93\216\247\193\87\194\250\233\81\213\242\251\81\217\253","\147\143\56\182");obf_cached_str[1]=LUAOBFUSACTOR_DECRYPT_STR_0("\36\51\245\74\3\34\230\127\2\46","\56\119\71\148");do game:GetService(obf_cached_str[1]):SetCore(obf_cached_str[3],{[obf_cached_str[4]]="⚠️ WARNING ⚠️ ",[obf_cached_str[6]]=obf_cached_str[7]});game:GetService(obf_cached_str[9]):SetCore(obf_cached_str[11],{[obf_cached_str[12]]="👑 OWNER 👑",[obf_cached_str[14]]=obf_cached_str[15]});local enablestartupsound=true;local enablebackgroundsound=true;local player=game.Players.LocalPlayer;local playerGui=player:FindFirstChild(obf_cached_str[19]);if playerGui then local FlatIdent_521D6=0;local screenGui;local frame;local frameGradient;local textLabel;local textGradient;while true do if (FlatIdent_521D6==5) then textLabel.Position=UDim2.new(0.25,0,0.4,0);textLabel.BackgroundTransparency=1;textLabel.Text=obf_cached_str[24];FlatIdent_521D6=6;end if (FlatIdent_521D6==0) then screenGui=Instance.new(obf_cached_str[26]);screenGui.Parent=_G[obf_cached_str[28]].CoreGui;frame=Instance.new(obf_cached_str[31]);FlatIdent_521D6=1;end if (FlatIdent_521D6==7) then textLabel.TextTransparency=0;textLabel.Parent=frame;textGradient=Instance.new(obf_cached_str[35]);FlatIdent_521D6=8;end if (FlatIdent_521D6==6) then textLabel.Font=Enum.Font.GothamBlack;textLabel.TextSize=100;textLabel.TextColor3=Color3.new(1,1,1);FlatIdent_521D6=7;end if (FlatIdent_521D6==4) then frameGradient.Parent=frame;textLabel=Instance.new(obf_cached_str[44]);textLabel.Size=UDim2.new(0.5,0,0.2,0);FlatIdent_521D6=5;end if (9==FlatIdent_521D6) then wait(1);for i=0,100 do local FlatIdent_7F3C8=0;local alpha;while true do if (FlatIdent_7F3C8==0) then alpha=i/100 ;frame.BackgroundTransparency=alpha;FlatIdent_7F3C8=1;end if (1==FlatIdent_7F3C8) then textLabel.TextTransparency=alpha;wait(0.01);break;end end end screenGui:Destroy();break;end if (FlatIdent_521D6==8) then textGradient.Color=ColorSequence.new({ColorSequenceKeypoint.new(0,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1,Color3.fromRGB(170,170,170))});textGradient.Rotation=90;textGradient.Parent=textLabel;FlatIdent_521D6=9;end if (FlatIdent_521D6==2) then frame.BorderSizePixel=0;frame.BackgroundTransparency=0;frame.Parent=screenGui;FlatIdent_521D6=3;end if (FlatIdent_521D6==1) then frame.Size=UDim2.new(1,0,1,0);frame.Position=UDim2.new(0,0,0,0);frame.BackgroundColor3=Color3.fromRGB(206,157,255);FlatIdent_521D6=2;end if (FlatIdent_521D6==3) then frameGradient=Instance.new(obf_cached_str[68]);frameGradient.Color=ColorSequence.new({ColorSequenceKeypoint.new(0,Color3.fromRGB(206,157,255)),ColorSequenceKeypoint.new(1,Color3.fromRGB(255,255,255))});frameGradient.Rotation=145;FlatIdent_521D6=4;end end end if enablestartupsound then local FlatIdent_66556=0;local url;local filePath;local Sound;while true do if (FlatIdent_66556==1) then local FlatIdent_7063=0;while true do if (FlatIdent_7063==0) then filePath="skyclient/sounds/startup.mp3";if  not isfile(filePath) then writefile(filePath,_G[obf_cached_str[77]]:HttpGet(url,true));end FlatIdent_7063=1;end if (FlatIdent_7063==1) then FlatIdent_66556=2;break;end end end if (FlatIdent_66556==4) then Sound.Parent=_G[obf_cached_str[80]]:GetService(obf_cached_str[82]);Sound:Play();break;end if (FlatIdent_66556==0) then if  not isfolder("skyclient/sounds") then makefolder("skyclient/sounds");end url="https://raw.githubusercontent.com/Zedion69/sounds/refs/heads/main/startup-87026%202.mp3";FlatIdent_66556=1;end if (FlatIdent_66556==2) then Sound=Instance.new(obf_cached_str[88]);Sound.SoundId=_G[obf_cached_str[90]](filePath);FlatIdent_66556=3;end if (FlatIdent_66556==3) then Sound.Volume=5;Sound.Looped=false;FlatIdent_66556=4;end end end makefolder("skyclient/images");local imageUrl="https://raw.githubusercontent.com/Zedion69/images/refs/heads/main/IMG_4234.jpeg";local savePath="skyclient/images/skyimage.png";local imageData=_G[obf_cached_str[96]]:HttpGet(imageUrl);writefile(savePath,imageData);local StarterGui=_G[obf_cached_str[98]]:GetService(obf_cached_str[100]);StarterGui:SetCore(obf_cached_str[102],{[obf_cached_str[103]]=obf_cached_str[104],[obf_cached_str[105]]=obf_cached_str[106],[obf_cached_str[107]]=_G[obf_cached_str[108]](savePath),[obf_cached_str[109]]=5});local success,err=_G[obf_cached_str[110]](function() writefile("skyclient/sounds/background.mp3",_G[obf_cached_str[112]]:HttpGet("https://raw.githubusercontent.com/Zedion69/sounds/refs/heads/main/Lukrembo%20-%20Memories%20(freetouse.com).mp3",true));end);if  not success then end if enablebackgroundsound then if isfile("skyclient/sounds/background.mp3") then local FlatIdent_12703=0;local Sound;while true do if (FlatIdent_12703==2) then Sound.Parent=_G[obf_cached_str[117]]:GetService(obf_cached_str[119]);Sound:Play();break;end if (FlatIdent_12703==0) then local FlatIdent_956D=0;while true do if (FlatIdent_956D==1) then FlatIdent_12703=1;break;end if (FlatIdent_956D==0) then Sound=Instance.new(obf_cached_str[122]);Sound.SoundId=_G[obf_cached_str[124]]("skyclient/sounds/background.mp3");FlatIdent_956D=1;end end end if (FlatIdent_12703==1) then Sound.Volume=0.3;Sound.Looped=true;FlatIdent_12703=2;end end end end local theme=Color3.fromRGB(180,104,255);local lengthtabthing=40;local Players=_G[obf_cached_str[129]]:GetService(obf_cached_str[131]);local player=Players.LocalPlayer;local playerGui=player:WaitForChild(obf_cached_str[134]);local ScreenGui=Instance.new(obf_cached_str[136]);ScreenGui.Parent=playerGui;ScreenGui.ResetOnSpawn=false;ScreenGui.Enabled=true;local uiScale=0.8;local function adjustUIScale() for _,child in pairs(ScreenGui:GetChildren()) do if child:IsA(obf_cached_str[142]) then local FlatIdent_7517F=0;local FlatIdent_7366E;while true do if (0==FlatIdent_7517F) then FlatIdent_7366E=0;while true do if (0==FlatIdent_7366E) then child.Size=UDim2.new(0,120 * uiScale ,0,30 * uiScale );child.TextSize=14 * uiScale ;break;end end break;end end elseif child:IsA(obf_cached_str[147]) then child.Size=UDim2.new(1,0,0,30 * uiScale );end end end local function createTab(name,position) local FlatIdent_F26C=0;local tabButton;local gradient;local dropdown;local layout;local expanded;while true do if (4==FlatIdent_F26C) then dropdown.ClipsDescendants=true;dropdown.BorderSizePixel=0;layout=Instance.new(obf_cached_str[153]);layout.Parent=dropdown;layout.FillDirection=Enum.FillDirection.Vertical;layout.SortOrder=Enum.SortOrder.LayoutOrder;FlatIdent_F26C=5;end if (FlatIdent_F26C==2) then tabButton.Draggable=true;tabButton.BorderSizePixel=0;tabButton.AnchorPoint=Vector2.new(0.5,0);gradient=Instance.new(obf_cached_str[166]);gradient.Parent=tabButton;gradient.Color=ColorSequence.new(Color3.fromRGB(255,255,255),Color3.fromRGB(200,200,200));FlatIdent_F26C=3;end if (FlatIdent_F26C==3) then gradient.Rotation=90;dropdown=Instance.new(obf_cached_str[174]);dropdown.Parent=tabButton;dropdown.Size=UDim2.new(1,0,0,0);dropdown.Position=UDim2.new(0,0,1,0);dropdown.BackgroundTransparency=1;FlatIdent_F26C=4;end if (FlatIdent_F26C==1) then tabButton.Text=name;tabButton.TextColor3=Color3.fromRGB(255,255,255);tabButton.Font=Enum.Font.GothamBold;tabButton.TextSize=14 * uiScale ;tabButton.AutoButtonColor=false;tabButton.Active=true;FlatIdent_F26C=2;end if (FlatIdent_F26C==0) then tabButton=Instance.new(obf_cached_str[191]);tabButton.Parent=ScreenGui;tabButton.Size=UDim2.new(0,120 * uiScale ,0,30 * uiScale );tabButton.Position=position or UDim2.new(0,50,0,50) ;tabButton.BackgroundColor3=theme;tabButton.BackgroundTransparency=0;FlatIdent_F26C=1;end if (5==FlatIdent_F26C) then expanded=false;tabButton.MouseButton1Click:Connect(function() local FlatIdent_43862=0;while true do if (0==FlatIdent_43862) then expanded= not expanded;if expanded then dropdown:TweenSize(UDim2.new(1,0,0, #dropdown:GetChildren() * 30 * uiScale ),Enum.EasingDirection.Out,Enum.EasingStyle.Quart,0.5,true);else dropdown:TweenSize(UDim2.new(1,0,0,0),Enum.EasingDirection.Out,Enum.EasingStyle.Quart,0.5,true);end break;end end end);return dropdown;end end end local function createToggle(name,parent,onActivate,onDeactivate) local FlatIdent_B1F4=0;local option;local gradient;local toggled;while true do if (FlatIdent_B1F4==1) then option.BackgroundTransparency=0;option.Text=name;option.TextColor3=Color3.fromRGB(255,255,255);option.Font=Enum.Font.Gotham;FlatIdent_B1F4=2;end if (FlatIdent_B1F4==3) then gradient.Color=ColorSequence.new(Color3.fromRGB(255,255,255),Color3.fromRGB(220,220,220));gradient.Rotation=90;toggled=false;option.MouseButton1Click:Connect(function() local FlatIdent_C595=0;local FlatIdent_8F047;while true do if (FlatIdent_C595==0) then FlatIdent_8F047=0;while true do if (FlatIdent_8F047==0) then toggled= not toggled;if toggled then local FlatIdent_1DFAF=0;while true do if (FlatIdent_1DFAF==0) then option.BackgroundColor3=theme;if onActivate then onActivate();end break;end end else local FlatIdent_4609C=0;local FlatIdent_31905;while true do if (FlatIdent_4609C==0) then FlatIdent_31905=0;while true do if (0==FlatIdent_31905) then option.BackgroundColor3=Color3.fromRGB(33,33,33);if onDeactivate then onDeactivate();end break;end end break;end end end break;end end break;end end end);break;end if (FlatIdent_B1F4==0) then option=Instance.new(obf_cached_str[232]);option.Parent=parent;option.Size=UDim2.new(1,0,0,30 * uiScale );option.BackgroundColor3=Color3.fromRGB(33,33,33);FlatIdent_B1F4=1;end if (2==FlatIdent_B1F4) then option.TextSize=14 * uiScale ;option.BorderSizePixel=0;gradient=Instance.new(obf_cached_str[241]);gradient.Parent=option;FlatIdent_B1F4=3;end end end local combat=createTab(obf_cached_str[243],UDim2.new(0,50,0,50));local blatant=createTab(obf_cached_str[245],UDim2.new(0,50 + 100 ,0,50));local visual=createTab(obf_cached_str[247],UDim2.new(0,50 + 100 + 100 ,0,50));local world=createTab(obf_cached_str[249],UDim2.new(0,50 + 100 + 100 + 100 ,0,50));local player=_G[obf_cached_str[251]].Players.LocalPlayer;local camera=_G[obf_cached_str[254]].CurrentCamera;local tracerEnabled=false;local tracerLines={};local resetgravity=_G[obf_cached_str[256]].Workspace.Gravity;createToggle(obf_cached_str[259],world,function() _G[obf_cached_str[260]].Workspace.Gravity=80;end,function() _G[obf_cached_str[263]].Workspace.Gravity=resetgravity;end);createToggle(obf_cached_str[266],visual,function() tracerEnabled=true;end,function() local FlatIdent_699E4=0;while true do if (FlatIdent_699E4==0) then tracerEnabled=false;for _,line in pairs(tracerLines) do line:Remove();end FlatIdent_699E4=1;end if (FlatIdent_699E4==1) then tracerLines={};break;end end end);_G[obf_cached_str[268]]:GetService(obf_cached_str[270]).RenderStepped:Connect(function() if tracerEnabled then for _,targetPlayer in pairs(game.Players:GetPlayers()) do local FlatIdent_51F42=0;local character;while true do if (FlatIdent_51F42==0) then if (targetPlayer==player) then continue;end character=targetPlayer.Character;FlatIdent_51F42=1;end if (FlatIdent_51F42==1) then if (character and character:FindFirstChild(obf_cached_str[277])) then local FlatIdent_6EF7B=0;local FlatIdent_E652;local headPosition;local line;while true do if (FlatIdent_6EF7B==0) then FlatIdent_E652=0;headPosition=nil;FlatIdent_6EF7B=1;end if (FlatIdent_6EF7B==1) then line=nil;while true do if (0==FlatIdent_E652) then headPosition=camera:WorldToScreenPoint(character.Head.Position);if  not tracerLines[targetPlayer] then local FlatIdent_49AED=0;local line;while true do if (FlatIdent_49AED==1) then line.Color=Color3.fromRGB(180,104,255);tracerLines[targetPlayer]=line;break;end if (FlatIdent_49AED==0) then local FlatIdent_506A5=0;while true do if (FlatIdent_506A5==0) then line=Drawing.new(obf_cached_str[284]);line.Thickness=1;FlatIdent_506A5=1;end if (FlatIdent_506A5==1) then FlatIdent_49AED=1;break;end end end end end FlatIdent_E652=1;end if (2==FlatIdent_E652) then line.To=Vector2.new(headPosition.X,headPosition.Y);break;end if (FlatIdent_E652==1) then local FlatIdent_1454F=0;while true do if (FlatIdent_1454F==0) then line=tracerLines[targetPlayer];line.From=Vector2.new(camera.ViewportSize.X/2 ,camera.ViewportSize.Y);FlatIdent_1454F=1;end if (FlatIdent_1454F==1) then FlatIdent_E652=2;break;end end end end break;end end end break;end end end else local FlatIdent_37555=0;while true do if (FlatIdent_37555==0) then for _,line in pairs(tracerLines) do line:Remove();end tracerLines={};break;end end end end);local isCFrameMovementEnabled=false;local function setupCharacter(character) local FlatIdent_11AA1=0;local humanoid;local hrp;local walkSpeed;local speedMultiplier;local updateCFrame;while true do if (1==FlatIdent_11AA1) then walkSpeed=1.5;speedMultiplier=walkSpeed/5 ;FlatIdent_11AA1=2;end if (FlatIdent_11AA1==0) then humanoid=character:WaitForChild(obf_cached_str[298]);hrp=character:WaitForChild(obf_cached_str[300]);FlatIdent_11AA1=1;end if (FlatIdent_11AA1==2) then updateCFrame=nil;function updateCFrame() local FlatIdent_6F99F=0;local moveDirection;local moveVector;while true do if (FlatIdent_6F99F==0) then moveDirection=Vector3.new();if (humanoid.MoveDirection.Magnitude>0) then moveDirection=humanoid.MoveDirection.Unit;end FlatIdent_6F99F=1;end if (FlatIdent_6F99F==1) then moveVector=moveDirection * walkSpeed * speedMultiplier ;hrp.CFrame=hrp.CFrame + moveVector ;break;end end end FlatIdent_11AA1=3;end if (FlatIdent_11AA1==3) then _G[obf_cached_str[308]]:GetService(obf_cached_str[310]).Heartbeat:Connect(function() if isCFrameMovementEnabled then updateCFrame();end end);break;end end end createToggle(obf_cached_str[313],blatant,function() isCFrameMovementEnabled=true;end,function() isCFrameMovementEnabled=false;end);player.CharacterAdded:Connect(function(character) setupCharacter(character);end);if player.Character then setupCharacter(player.Character);end createToggle(obf_cached_str[318],blatant,function() local FlatIdent_65290=0;local teleportToNearestPlayer;while true do if (FlatIdent_65290==1) then teleportToNearestPlayer();break;end if (FlatIdent_65290==0) then local FlatIdent_84ED3=0;while true do if (0==FlatIdent_84ED3) then teleportToNearestPlayer=nil;function teleportToNearestPlayer() if (player and player.Character and player.Character:FindFirstChild(obf_cached_str[322])) then local players=_G[obf_cached_str[323]].Players:GetPlayers();local nearestPlayer=nil;local shortestDistance=_G[obf_cached_str[326]].huge;for _,otherPlayer in pairs(players) do if ((otherPlayer~=player) and otherPlayer.Character and otherPlayer.Character:FindFirstChild(obf_cached_str[331])) then local FlatIdent_2D2B8=0;local distance;while true do if (FlatIdent_2D2B8==0) then distance=(player.Character.HumanoidRootPart.Position-otherPlayer.Character.HumanoidRootPart.Position).Magnitude;if (distance<shortestDistance) then local FlatIdent_9851B=0;local FlatIdent_E0D0;while true do if (FlatIdent_9851B==0) then FlatIdent_E0D0=0;while true do if (FlatIdent_E0D0==0) then nearestPlayer=otherPlayer;shortestDistance=distance;break;end end break;end end end break;end end end end if nearestPlayer then local FlatIdent_8DCA9=0;local tweenService;local humanoidRootPart;local targetCFrame;local tweenInfo;local tween;while true do if (FlatIdent_8DCA9==1) then local FlatIdent_1D765=0;while true do if (0==FlatIdent_1D765) then targetCFrame=nearestPlayer.Character.HumanoidRootPart.CFrame;tweenInfo=TweenInfo.new(0.5,Enum.EasingStyle.Sine,Enum.EasingDirection.Out);FlatIdent_1D765=1;end if (FlatIdent_1D765==1) then FlatIdent_8DCA9=2;break;end end end if (FlatIdent_8DCA9==2) then local FlatIdent_FBDE=0;while true do if (FlatIdent_FBDE==0) then tween=tweenService:Create(humanoidRootPart,tweenInfo,{[obf_cached_str[348]]=targetCFrame});tween:Play();FlatIdent_FBDE=1;end if (FlatIdent_FBDE==1) then FlatIdent_8DCA9=3;break;end end end if (FlatIdent_8DCA9==0) then local FlatIdent_4BE81=0;while true do if (FlatIdent_4BE81==1) then FlatIdent_8DCA9=1;break;end if (FlatIdent_4BE81==0) then tweenService=_G[obf_cached_str[350]]:GetService(obf_cached_str[352]);humanoidRootPart=player.Character.HumanoidRootPart;FlatIdent_4BE81=1;end end end if (3==FlatIdent_8DCA9) then tween.Completed:Wait();break;end end end end end FlatIdent_84ED3=1;end if (FlatIdent_84ED3==1) then FlatIdent_65290=1;break;end end end end end,function() local FlatIdent_6B983=0;local teleportToNearestPlayer;while true do if (FlatIdent_6B983==1) then teleportToNearestPlayer();break;end if (FlatIdent_6B983==0) then local FlatIdent_29662=0;while true do if (FlatIdent_29662==1) then FlatIdent_6B983=1;break;end if (FlatIdent_29662==0) then teleportToNearestPlayer=nil;function teleportToNearestPlayer() if (player and player.Character and player.Character:FindFirstChild(obf_cached_str[360])) then local players=_G[obf_cached_str[361]].Players:GetPlayers();local nearestPlayer=nil;local shortestDistance=_G[obf_cached_str[364]].huge;for _,otherPlayer in pairs(players) do if ((otherPlayer~=player) and otherPlayer.Character and otherPlayer.Character:FindFirstChild(obf_cached_str[369])) then local FlatIdent_8D1A5=0;local distance;while true do if (0==FlatIdent_8D1A5) then distance=(player.Character.HumanoidRootPart.Position-otherPlayer.Character.HumanoidRootPart.Position).Magnitude;if (distance<shortestDistance) then local FlatIdent_89126=0;while true do if (FlatIdent_89126==0) then nearestPlayer=otherPlayer;shortestDistance=distance;break;end end end break;end end end end if nearestPlayer then local FlatIdent_8B523=0;local tweenService;local humanoidRootPart;local targetCFrame;local tweenInfo;local tween;while true do if (FlatIdent_8B523==0) then local FlatIdent_15354=0;while true do if (FlatIdent_15354==0) then tweenService=_G[obf_cached_str[377]]:GetService(obf_cached_str[379]);humanoidRootPart=player.Character.HumanoidRootPart;FlatIdent_15354=1;end if (FlatIdent_15354==1) then FlatIdent_8B523=1;break;end end end if (FlatIdent_8B523==1) then local FlatIdent_437D4=0;while true do if (FlatIdent_437D4==1) then FlatIdent_8B523=2;break;end if (FlatIdent_437D4==0) then targetCFrame=nearestPlayer.Character.HumanoidRootPart.CFrame;tweenInfo=TweenInfo.new(0.01,Enum.EasingStyle.Sine,Enum.EasingDirection.Out);FlatIdent_437D4=1;end end end if (2==FlatIdent_8B523) then local FlatIdent_4D69A=0;while true do if (0==FlatIdent_4D69A) then tween=tweenService:Create(humanoidRootPart,tweenInfo,{[obf_cached_str[391]]=targetCFrame});tween:Play();FlatIdent_4D69A=1;end if (FlatIdent_4D69A==1) then FlatIdent_8B523=3;break;end end end if (FlatIdent_8B523==3) then tween.Completed:Wait();break;end end end end end FlatIdent_29662=1;end end end end end);local baseplate=Instance.new(obf_cached_str[396]);baseplate.Size=Vector3.new(10000,1,10000);baseplate.Position=Vector3.new(0,71.98,0);baseplate.Anchored=true;baseplate.Color=Color3.fromRGB(180,104,255);baseplate.Parent=_G[obf_cached_str[405]].Workspace;baseplate.Transparency=1;baseplate.CanCollide=false;createToggle(obf_cached_str[409],blatant,function() local FlatIdent_2B4B0=0;local FlatIdent_28F3E;while true do if (FlatIdent_2B4B0==0) then FlatIdent_28F3E=0;while true do if (FlatIdent_28F3E==0) then baseplate.Transparency=0.6;baseplate.CanCollide=true;break;end end break;end end end,function() local FlatIdent_C342=0;local FlatIdent_2F37F;while true do if (FlatIdent_C342==0) then FlatIdent_2F37F=0;while true do if (FlatIdent_2F37F==0) then baseplate.Transparency=1;baseplate.CanCollide=false;break;end end break;end end end);local edgeDistance=0.5;local checkInterval=0.01;local edgeCheckEnabled=false;local currentCheckTask=nil;local function isAtEdge(character) local FlatIdent_85FF9=0;local humanoid;local rayOrigin;local rayDirection;local raycastParams;local raycastResult;while true do if (FlatIdent_85FF9==2) then raycastParams=RaycastParams.new();raycastParams.FilterDescendantsInstances={character};FlatIdent_85FF9=3;end if (FlatIdent_85FF9==4) then if (raycastResult and raycastResult.Instance) then local FlatIdent_1C13F=0;local part;local size;local position;local minX;local maxX;local minZ;local maxZ;while true do if (FlatIdent_1C13F==3) then maxZ=position.Z + (size.Z/2) ;if ((_G[obf_cached_str[419]].abs(rayOrigin.X-minX )<=edgeDistance) or (_G[obf_cached_str[422]].abs(rayOrigin.X-maxX )<=edgeDistance) or (_G[obf_cached_str[425]].abs(rayOrigin.Z-minZ )<=edgeDistance) or (_G[obf_cached_str[428]].abs(rayOrigin.Z-maxZ )<=edgeDistance)) then return true;end break;end if (FlatIdent_1C13F==1) then position=part.Position;minX=position.X-(size.X/2) ;FlatIdent_1C13F=2;end if (FlatIdent_1C13F==0) then part=raycastResult.Instance;size=part.Size;FlatIdent_1C13F=1;end if (FlatIdent_1C13F==2) then maxX=position.X + (size.X/2) ;minZ=position.Z-(size.Z/2) ;FlatIdent_1C13F=3;end end end return false;end if (FlatIdent_85FF9==0) then humanoid=character:FindFirstChildOfClass(obf_cached_str[441]);if  not humanoid then return false;end FlatIdent_85FF9=1;end if (FlatIdent_85FF9==3) then raycastParams.FilterType=Enum.RaycastFilterType.Blacklist;raycastResult=_G[obf_cached_str[445]]:Raycast(rayOrigin,rayDirection,raycastParams);FlatIdent_85FF9=4;end if (FlatIdent_85FF9==1) then rayOrigin=character.PrimaryPart.Position;rayDirection=Vector3.new(0, -5,0);FlatIdent_85FF9=2;end end end local function startEdgeCheck(character) local FlatIdent_5998C=0;local humanoid;while true do if (1==FlatIdent_5998C) then if  not humanoid then return;end currentCheckTask=task.spawn(function() while edgeCheckEnabled and task.wait(checkInterval)  do if ( not character or  not character.Parent) then break;end if (isAtEdge(character) and (humanoid:GetState()~=Enum.HumanoidStateType.Jumping)) then humanoid:ChangeState(Enum.HumanoidStateType.Jumping);end end end);break;end if (FlatIdent_5998C==0) then if currentCheckTask then task.cancel(currentCheckTask);end humanoid=character:FindFirstChildOfClass(obf_cached_str[461]);FlatIdent_5998C=1;end end end player.CharacterAdded:Connect(function(character) local FlatIdent_398FF=0;while true do if (FlatIdent_398FF==0) then task.wait(0.1);if edgeCheckEnabled then startEdgeCheck(character);end break;end end end);if player.Character then startEdgeCheck(player.Character);end createToggle(obf_cached_str[467],world,function() local FlatIdent_37E3=0;local FlatIdent_47ABB;while true do if (FlatIdent_37E3==0) then FlatIdent_47ABB=0;while true do if (FlatIdent_47ABB==0) then edgeCheckEnabled=true;if player.Character then startEdgeCheck(player.Character);end break;end end break;end end end,function() edgeCheckEnabled=false;end);local Players=_G[obf_cached_str[470]]:GetService(obf_cached_str[472]);local LocalPlayer=Players.LocalPlayer;local RunService=_G[obf_cached_str[474]]:GetService(obf_cached_str[476]);local detectionRange=20;local swordName=obf_cached_str[477];local spinningEnabled=false;local heartbeatConnection;createToggle(obf_cached_str[478],blatant,function() local FlatIdent_64E47=0;local FlatIdent_69253;while true do if (FlatIdent_64E47==0) then FlatIdent_69253=0;while true do if (0==FlatIdent_69253) then spinningEnabled=true;detectionRange=15;FlatIdent_69253=1;end if (1==FlatIdent_69253) then startKillaura();break;end end break;end end end,function() local FlatIdent_360C0=0;local FlatIdent_6A091;while true do if (FlatIdent_360C0==0) then FlatIdent_6A091=0;while true do if (1==FlatIdent_6A091) then stopKillaura();break;end if (FlatIdent_6A091==0) then spinningEnabled=false;detectionRange=20;FlatIdent_6A091=1;end end break;end end end);local function isPlayerNearby() local FlatIdent_202CC=0;local FlatIdent_6D9D2;while true do if (FlatIdent_202CC==0) then FlatIdent_6D9D2=0;while true do if (FlatIdent_6D9D2==0) then local FlatIdent_42746=0;while true do if (FlatIdent_42746==0) then for _,player in pairs(Players:GetPlayers()) do if ((player~=LocalPlayer) and player.Character and player.Character:FindFirstChild(obf_cached_str[483])) then local FlatIdent_33F65=0;local humanoid;local forceField;local distance;while true do if (FlatIdent_33F65==0) then humanoid=player.Character:FindFirstChild(obf_cached_str[486]);forceField=player.Character:FindFirstChild(obf_cached_str[489]);FlatIdent_33F65=1;end if (FlatIdent_33F65==1) then distance=(LocalPlayer.Character.HumanoidRootPart.Position-player.Character.HumanoidRootPart.Position).Magnitude;if (humanoid and (humanoid.Health>0) and  not forceField and (distance<=detectionRange)) then return true;end break;end end end end return false;end end end end break;end end end local function equipSword() local FlatIdent_69486=0;local sword;while true do if (FlatIdent_69486==0) then sword=LocalPlayer.Backpack:FindFirstChild(swordName);if (sword and  not LocalPlayer.Character:FindFirstChild(swordName)) then sword.Parent=LocalPlayer.Character;end break;end end end local function unequipSword() local FlatIdent_185A5=0;local sword;while true do if (0==FlatIdent_185A5) then sword=LocalPlayer.Character:FindFirstChild(swordName);if sword then sword.Parent=LocalPlayer.Backpack;end break;end end end local function useSword() local FlatIdent_6225E=0;local sword;while true do if (FlatIdent_6225E==0) then sword=LocalPlayer.Character:FindFirstChild(swordName);if (sword and sword:IsA(obf_cached_str[511])) then sword:Activate();end break;end end end local function spinPlayer() local FlatIdent_4087C=0;local humanoidRootPart;while true do if (FlatIdent_4087C==0) then humanoidRootPart=LocalPlayer.Character:FindFirstChild(obf_cached_str[515]);if humanoidRootPart then humanoidRootPart.CFrame=humanoidRootPart.CFrame * CFrame.Angles(0,_G[obf_cached_str[519]].rad(100),0) ;end break;end end end local function disablePlayerControls() local FlatIdent_30F3D=0;local humanoid;while true do if (FlatIdent_30F3D==0) then humanoid=LocalPlayer.Character:FindFirstChild(obf_cached_str[523]);if humanoid then humanoid.AutoRotate=false;end break;end end end local function enablePlayerControls() local FlatIdent_21DDC=0;local humanoid;while true do if (FlatIdent_21DDC==0) then humanoid=LocalPlayer.Character:FindFirstChild(obf_cached_str[527]);if humanoid then humanoid.AutoRotate=true;end break;end end end function startKillaura() heartbeatConnection=RunService.Heartbeat:Connect(function() if (spinningEnabled and isPlayerNearby()) then local FlatIdent_FA88=0;local sword;while true do if (FlatIdent_FA88==0) then equipSword();useSword();FlatIdent_FA88=1;end if (FlatIdent_FA88==1) then sword=LocalPlayer.Character:FindFirstChild(swordName);if sword then local FlatIdent_1BC4A=0;while true do if (FlatIdent_1BC4A==0) then spinPlayer();disablePlayerControls();break;end end end break;end end else local FlatIdent_2644E=0;while true do if (FlatIdent_2644E==0) then unequipSword();enablePlayerControls();break;end end end end);end function stopKillaura() local FlatIdent_397D1=0;local FlatIdent_1CA5D;while true do if (FlatIdent_397D1==0) then FlatIdent_1CA5D=0;while true do if (FlatIdent_1CA5D==0) then if heartbeatConnection then local FlatIdent_25061=0;while true do if (FlatIdent_25061==0) then heartbeatConnection:Disconnect();heartbeatConnection=nil;break;end end end enablePlayerControls();FlatIdent_1CA5D=1;end if (FlatIdent_1CA5D==1) then unequipSword();break;end end break;end end end createToggle(obf_cached_str[534],blatant,function() local range=13;_G[obf_cached_str[535]]:GetService(obf_cached_str[537]).RenderStepped:Connect(function() local FlatIdent_67517=0;local p;while true do if (FlatIdent_67517==0) then p=_G[obf_cached_str[540]].Players:GetPlayers();for i=2, #p do local FlatIdent_8384B=0;local v;while true do if (FlatIdent_8384B==0) then v=p[i].Character;if (v and v:FindFirstChild(obf_cached_str[545]) and (v.Humanoid.Health>0) and v:FindFirstChild(obf_cached_str[549]) and (player:DistanceFromCharacter(v.HumanoidRootPart.Position)<=range)) then local FlatIdent_63A3A=0;local tool;while true do if (FlatIdent_63A3A==0) then tool=player.Character and player.Character:FindFirstChildOfClass(obf_cached_str[556]) ;if (tool and tool:FindFirstChild(obf_cached_str[558])) then local FlatIdent_61057=0;while true do if (0==FlatIdent_61057) then tool:Activate();for i,v in next,v:GetChildren() do if v:IsA(obf_cached_str[562]) then local FlatIdent_5E6B6=0;while true do if (FlatIdent_5E6B6==0) then firetouchinterest(tool.Handle,v,0);firetouchinterest(tool.Handle,v,1);break;end end end end break;end end end break;end end end break;end end end break;end end end);end,function() end);local InfiniteJumpEnabled=false;_G[obf_cached_str[565]]:GetService(obf_cached_str[567]).JumpRequest:connect(function() if InfiniteJumpEnabled then _G[obf_cached_str[570]]:GetService(obf_cached_str[572]).LocalPlayer.Character:FindFirstChildOfClass(obf_cached_str[576]):ChangeState(obf_cached_str[578]);end end);createToggle(obf_cached_str[579],blatant,function() InfiniteJumpEnabled=true;end,function() InfiniteJumpEnabled=false;end);adjustUIScale();_G[obf_cached_str[580]].GameMusic:Destroy();end end
+-- if this code looks ai generated i couldn't fix a bug in my code, i checked everywhere and decided to use ai to help me fix my script. (it changed some stuff tho)
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "⚠️ WARNING ⚠️ ", -- Required
+	Text = "This script was SPECIFICALLY designed for MOBILE DEVICES, not COMPUTER DEVICES.", -- Required
+})
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "👑 OWNER 👑", -- Required
+	Text = "The owner of this script is zodien, you can DM me at: @zedion09", -- Required
+})
+local enablestartupsound = true
+local enablebackgroundsound = true
+
+local player = game.Players.LocalPlayer
+local playerGui = player:FindFirstChild("PlayerGui")
+
+if playerGui then
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Parent = game.CoreGui
+
+    local frame = Instance.new("Frame")
+    frame.Size = UDim2.new(1, 0, 1, 0)
+    frame.Position = UDim2.new(0, 0, 0, 0)
+    frame.BackgroundColor3 = Color3.fromRGB(206, 157, 255)
+    frame.BorderSizePixel = 0
+    frame.BackgroundTransparency = 0
+    frame.Parent = screenGui
+
+    local frameGradient = Instance.new("UIGradient")
+    frameGradient.Color = ColorSequence.new{
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(206, 157, 255)), 
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(255, 255, 255))  
+    }
+    frameGradient.Rotation = 145
+    frameGradient.Parent = frame
+
+    local textLabel = Instance.new("TextLabel")
+    textLabel.Size = UDim2.new(0.5, 0, 0.2, 0)
+    textLabel.Position = UDim2.new(0.25, 0, 0.4, 0)
+    textLabel.BackgroundTransparency = 1
+    textLabel.Text = "SKY CLIENT"
+    textLabel.Font = Enum.Font.GothamBlack
+    textLabel.TextSize = 100
+    textLabel.TextColor3 = Color3.new(1, 1, 1)
+    textLabel.TextTransparency = 0
+    textLabel.Parent = frame
+
+    local textGradient = Instance.new("UIGradient")
+    textGradient.Color = ColorSequence.new{
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 255)), 
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(170, 170, 170))  
+    }
+    textGradient.Rotation = 90
+    textGradient.Parent = textLabel
+
+    wait(1)
+
+    for i = 0, 100 do
+        local alpha = i / 100
+        frame.BackgroundTransparency = alpha
+        textLabel.TextTransparency = alpha
+        wait(0.01)
+    end
+
+    screenGui:Destroy()
+end
+
+if enablestartupsound then
+    if not isfolder("skyclient/sounds") then
+        makefolder("skyclient/sounds")
+    end
+
+    local url = "https://raw.githubusercontent.com/Zedion69/sounds/refs/heads/main/startup-87026%202.mp3"
+    local filePath = "skyclient/sounds/startup.mp3"
+
+    if not isfile(filePath) then
+        writefile(filePath, game:HttpGet(url, true))
+    end
+
+    local Sound = Instance.new("Sound")
+    Sound.SoundId = getcustomasset(filePath)
+    Sound.Volume = 5
+    Sound.Looped = false
+    Sound.Parent = game:GetService("SoundService")
+    Sound:Play()
+end
+
+makefolder("skyclient/images")
+
+local imageUrl = "https://raw.githubusercontent.com/Zedion69/images/refs/heads/main/IMG_4234.jpeg"
+local savePath = "skyclient/images/skyimage.png"
+
+local imageData = game:HttpGet(imageUrl)
+writefile(savePath, imageData)
+
+local StarterGui = game:GetService("StarterGui")
+
+StarterGui:SetCore("SendNotification", {
+    Title = "Sky Client 1.0",
+    Text = "Please be patient, the UI will load any second.",
+    Icon = getcustomasset(savePath),
+    Duration = 5,
+})
+
+local success, err = pcall(function()
+    writefile("skyclient/sounds/background.mp3", game:HttpGet("https://raw.githubusercontent.com/Zedion69/sounds/refs/heads/main/Lukrembo%20-%20Memories%20(freetouse.com).mp3", true))
+end)
+
+if not success then
+end
+
+if enablebackgroundsound then
+    if isfile("skyclient/sounds/background.mp3") then
+        local Sound = Instance.new("Sound")
+        Sound.SoundId = getcustomasset("skyclient/sounds/background.mp3")
+        Sound.Volume = 0.3
+        Sound.Looped = true
+        Sound.Parent = game:GetService("SoundService")
+        Sound:Play()
+    end
+end
+
+local theme = Color3.fromRGB(180, 104, 255)
+local lengthtabthing = 40
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Parent = playerGui
+ScreenGui.ResetOnSpawn = false
+ScreenGui.Enabled = true
+
+local uiScale = 0.8  
+
+local function adjustUIScale()
+    for _, child in pairs(ScreenGui:GetChildren()) do
+        if child:IsA("TextButton") then
+            child.Size = UDim2.new(0, 120 * uiScale, 0, 30 * uiScale)
+            child.TextSize = 14 * uiScale
+        elseif child:IsA("Frame") then
+            child.Size = UDim2.new(1, 0, 0, 30 * uiScale)
+        end
+    end
+end
+
+local function createTab(name, position)
+    local tabButton = Instance.new("TextButton")
+    tabButton.Parent = ScreenGui
+    tabButton.Size = UDim2.new(0, 120 * uiScale, 0, 30 * uiScale)
+    tabButton.Position = position or UDim2.new(0, 50, 0, 50)
+    tabButton.BackgroundColor3 = theme
+    tabButton.BackgroundTransparency = 0
+    tabButton.Text = name
+    tabButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    tabButton.Font = Enum.Font.GothamBold
+    tabButton.TextSize = 14 * uiScale
+    tabButton.AutoButtonColor = false
+    tabButton.Active = true
+    tabButton.Draggable = true
+    tabButton.BorderSizePixel = 0
+    tabButton.AnchorPoint = Vector2.new(0.5, 0)
+
+    local gradient = Instance.new("UIGradient")
+    gradient.Parent = tabButton
+    gradient.Color = ColorSequence.new(
+        Color3.fromRGB(255, 255, 255),
+        Color3.fromRGB(200, 200, 200)
+    )
+    gradient.Rotation = 90
+
+    local dropdown = Instance.new("Frame")
+    dropdown.Parent = tabButton
+    dropdown.Size = UDim2.new(1, 0, 0, 0)
+    dropdown.Position = UDim2.new(0, 0, 1, 0)
+    dropdown.BackgroundTransparency = 1
+    dropdown.ClipsDescendants = true
+    dropdown.BorderSizePixel = 0
+    
+    local layout = Instance.new("UIListLayout")
+    layout.Parent = dropdown
+    layout.FillDirection = Enum.FillDirection.Vertical
+    layout.SortOrder = Enum.SortOrder.LayoutOrder
+
+    local expanded = false
+
+    tabButton.MouseButton1Click:Connect(function()
+        expanded = not expanded
+        if expanded then
+            dropdown:TweenSize(UDim2.new(1, 0, 0, #dropdown:GetChildren() * 30 * uiScale), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, 0.5, true)
+        else
+            dropdown:TweenSize(UDim2.new(1, 0, 0, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, 0.5, true)
+        end
+    end)
+    
+    return dropdown
+end
+
+local function createToggle(name, parent, onActivate, onDeactivate)
+    local option = Instance.new("TextButton")
+    option.Parent = parent
+    option.Size = UDim2.new(1, 0, 0, 30 * uiScale)
+    option.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+    option.BackgroundTransparency = 0
+    option.Text = name
+    option.TextColor3 = Color3.fromRGB(255, 255, 255)
+    option.Font = Enum.Font.Gotham
+    option.TextSize = 14 * uiScale
+    option.BorderSizePixel = 0
+
+    local gradient = Instance.new("UIGradient")
+    gradient.Parent = option
+    gradient.Color = ColorSequence.new(
+        Color3.fromRGB(255, 255, 255),
+        Color3.fromRGB(220, 220, 220)
+    )
+    gradient.Rotation = 90
+
+    local toggled = false
+    
+    option.MouseButton1Click:Connect(function()
+        toggled = not toggled
+        if toggled then
+            option.BackgroundColor3 = theme
+            if onActivate then onActivate() end
+        else
+            option.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+            if onDeactivate then onDeactivate() end
+        end
+    end)
+end
+
+local combat = createTab("Combat", UDim2.new(0, 50, 0, 50))
+local blatant = createTab("Blatant", UDim2.new(0, 50 + 100, 0, 50))
+local visual = createTab("Visual", UDim2.new(0, 50 + 100 + 100, 0, 50))
+local world = createTab("World", UDim2.new(0, 50 + 100 + 100 + 100, 0, 50))
+
+local player = game.Players.LocalPlayer
+local camera = workspace.CurrentCamera
+local tracerEnabled = false
+local tracerLines = {}
+
+local resetgravity = game.Workspace.Gravity
+
+createToggle("Gravity", world, function()
+    game.Workspace.Gravity = 80
+end, function()
+    game.Workspace.Gravity = resetgravity
+end)
+
+createToggle("Tracers", visual, function()
+    tracerEnabled = true
+end, function()
+    tracerEnabled = false
+    for _, line in pairs(tracerLines) do
+        line:Remove()
+    end
+    tracerLines = {}
+end)
+
+game:GetService("RunService").RenderStepped:Connect(function()
+    if tracerEnabled then
+        for _, targetPlayer in pairs(game.Players:GetPlayers()) do
+            if targetPlayer == player then
+                continue
+            end
+
+            local character = targetPlayer.Character
+            if character and character:FindFirstChild("Head") then
+                local headPosition = camera:WorldToScreenPoint(character.Head.Position)
+
+                if not tracerLines[targetPlayer] then
+                    local line = Drawing.new("Line")
+                    line.Thickness = 1
+                    line.Color = Color3.fromRGB(180, 104, 255)
+                    tracerLines[targetPlayer] = line
+                end
+
+                local line = tracerLines[targetPlayer]
+                line.From = Vector2.new(camera.ViewportSize.X / 2, camera.ViewportSize.Y)
+                line.To = Vector2.new(headPosition.X, headPosition.Y)
+            end
+        end
+    else
+        for _, line in pairs(tracerLines) do
+            line:Remove()
+        end
+        tracerLines = {}
+    end
+end)
+
+local isCFrameMovementEnabled = false
+
+local function setupCharacter(character)
+    local humanoid = character:WaitForChild("Humanoid")
+    local hrp = character:WaitForChild("HumanoidRootPart")
+
+    local walkSpeed = 1.5
+    local speedMultiplier = walkSpeed / 5
+
+    local function updateCFrame()
+        local moveDirection = Vector3.new()
+        if humanoid.MoveDirection.Magnitude > 0 then
+            moveDirection = humanoid.MoveDirection.Unit
+        end
+        
+        local moveVector = moveDirection * walkSpeed * speedMultiplier
+        hrp.CFrame = hrp.CFrame + moveVector
+    end
+
+    game:GetService("RunService").Heartbeat:Connect(function()
+        if isCFrameMovementEnabled then
+            updateCFrame()
+        end
+    end)
+end
+
+createToggle("Speed", blatant, function()
+    isCFrameMovementEnabled = true
+end, function()
+    isCFrameMovementEnabled = false
+end)
+
+player.CharacterAdded:Connect(function(character)
+    setupCharacter(character)
+end)
+
+if player.Character then
+    setupCharacter(player.Character)
+end
+
+createToggle("Teleport", blatant, function()
+    local function teleportToNearestPlayer()
+        if player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+            local players = game.Players:GetPlayers()
+            local nearestPlayer = nil
+            local shortestDistance = math.huge
+            
+            for _, otherPlayer in pairs(players) do
+                if otherPlayer ~= player and otherPlayer.Character and otherPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                    local distance = (player.Character.HumanoidRootPart.Position - otherPlayer.Character.HumanoidRootPart.Position).Magnitude
+                    if distance < shortestDistance then
+                        nearestPlayer = otherPlayer
+                        shortestDistance = distance
+                    end
+                end
+            end
+
+            if nearestPlayer then
+                local tweenService = game:GetService("TweenService")
+                local humanoidRootPart = player.Character.HumanoidRootPart
+                local targetCFrame = nearestPlayer.Character.HumanoidRootPart.CFrame
+                local tweenInfo = TweenInfo.new(0.5, Enum.EasingStyle.Sine, Enum.EasingDirection.Out)
+                local tween = tweenService:Create(humanoidRootPart, tweenInfo, {CFrame = targetCFrame})
+                tween:Play()
+                tween.Completed:Wait()
+            end
+        end
+    end
+
+    teleportToNearestPlayer()
+
+end, function()
+    local function teleportToNearestPlayer()
+        if player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+            local players = game.Players:GetPlayers()
+            local nearestPlayer = nil
+            local shortestDistance = math.huge
+            
+            for _, otherPlayer in pairs(players) do
+                if otherPlayer ~= player and otherPlayer.Character and otherPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                    local distance = (player.Character.HumanoidRootPart.Position - otherPlayer.Character.HumanoidRootPart.Position).Magnitude
+                    if distance < shortestDistance then
+                        nearestPlayer = otherPlayer
+                        shortestDistance = distance
+                    end
+                end
+            end
+
+            if nearestPlayer then
+                local tweenService = game:GetService("TweenService")
+                local humanoidRootPart = player.Character.HumanoidRootPart
+                local targetCFrame = nearestPlayer.Character.HumanoidRootPart.CFrame
+                local tweenInfo = TweenInfo.new(0.01, Enum.EasingStyle.Sine, Enum.EasingDirection.Out)
+                local tween = tweenService:Create(humanoidRootPart, tweenInfo, {CFrame = targetCFrame})
+                tween:Play()
+                tween.Completed:Wait()
+            end
+        end
+    end
+
+    teleportToNearestPlayer()
+
+end)
+
+local baseplate = Instance.new("Part")
+baseplate.Size = Vector3.new(10000, 1, 10000)
+baseplate.Position = Vector3.new(0, 71.98, 0)
+baseplate.Anchored = true
+baseplate.Color = Color3.fromRGB(180, 104, 255)
+baseplate.Parent = game.Workspace
+
+baseplate.Transparency = 1
+baseplate.CanCollide = false
+
+createToggle("Antivoid", blatant, function()
+    baseplate.Transparency = 0.6
+    baseplate.CanCollide = true
+end, function()
+    baseplate.Transparency = 1
+    baseplate.CanCollide = false
+end)
+
+local edgeDistance = 0.5
+local checkInterval = 0.01
+local edgeCheckEnabled = false
+local currentCheckTask = nil
+
+local function isAtEdge(character)
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return false end
+
+    local rayOrigin = character.PrimaryPart.Position
+    local rayDirection = Vector3.new(0, -5, 0)
+    local raycastParams = RaycastParams.new()
+    raycastParams.FilterDescendantsInstances = {character}
+    raycastParams.FilterType = Enum.RaycastFilterType.Blacklist
+
+    local raycastResult = workspace:Raycast(rayOrigin, rayDirection, raycastParams)
+    if raycastResult and raycastResult.Instance then
+        local part = raycastResult.Instance
+        local size = part.Size
+        local position = part.Position
+
+        local minX = position.X - size.X / 2
+        local maxX = position.X + size.X / 2
+        local minZ = position.Z - size.Z / 2
+        local maxZ = position.Z + size.Z / 2
+
+        if math.abs(rayOrigin.X - minX) <= edgeDistance or math.abs(rayOrigin.X - maxX) <= edgeDistance or
+           math.abs(rayOrigin.Z - minZ) <= edgeDistance or math.abs(rayOrigin.Z - maxZ) <= edgeDistance then
+            return true
+        end
+    end
+    return false
+end
+
+local function startEdgeCheck(character)
+    if currentCheckTask then
+        task.cancel(currentCheckTask)
+    end
+
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return end
+
+    currentCheckTask = task.spawn(function()
+        while edgeCheckEnabled and task.wait(checkInterval) do
+            if not character or not character.Parent then break end
+            if isAtEdge(character) and humanoid:GetState() ~= Enum.HumanoidStateType.Jumping then
+                humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+            end
+        end
+    end)
+end
+
+player.CharacterAdded:Connect(function(character)
+    task.wait(0.1)
+    if edgeCheckEnabled then
+        startEdgeCheck(character)
+    end
+end)
+
+if player.Character then
+    startEdgeCheck(player.Character)
+end
+
+createToggle("AutoJump", world, function()
+    edgeCheckEnabled = true
+    if player.Character then
+        startEdgeCheck(player.Character)
+    end
+end, function()
+    edgeCheckEnabled = false
+end)
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local RunService = game:GetService("RunService")
+
+local detectionRange = 20
+local swordName = "Sword"
+local spinningEnabled = false
+local heartbeatConnection
+
+createToggle("Killaura", blatant, function()
+    spinningEnabled = true
+    detectionRange = 15
+    startKillaura()
+end, function()
+    spinningEnabled = false
+    detectionRange = 20
+    stopKillaura()
+end)
+
+local function isPlayerNearby()
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+            local humanoid = player.Character:FindFirstChild("Humanoid")
+            local forceField = player.Character:FindFirstChild("ForceField")
+            local distance = (LocalPlayer.Character.HumanoidRootPart.Position - player.Character.HumanoidRootPart.Position).Magnitude
+
+            if humanoid and humanoid.Health > 0 and not forceField and distance <= detectionRange then
+                return true
+            end
+        end
+    end
+    return false
+end
+
+local function equipSword()
+    local sword = LocalPlayer.Backpack:FindFirstChild(swordName)
+    if sword and not LocalPlayer.Character:FindFirstChild(swordName) then
+        sword.Parent = LocalPlayer.Character
+    end
+end
+
+local function unequipSword()
+    local sword = LocalPlayer.Character:FindFirstChild(swordName)
+    if sword then
+        sword.Parent = LocalPlayer.Backpack
+    end
+end
+
+local function useSword()
+    local sword = LocalPlayer.Character:FindFirstChild(swordName)
+    if sword and sword:IsA("Tool") then
+        sword:Activate()
+    end
+end
+
+local function spinPlayer()
+    local humanoidRootPart = LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+    if humanoidRootPart then
+        humanoidRootPart.CFrame = humanoidRootPart.CFrame * CFrame.Angles(0, math.rad(100), 0)
+    end
+end
+
+local function disablePlayerControls()
+    local humanoid = LocalPlayer.Character:FindFirstChild("Humanoid")
+    if humanoid then
+        humanoid.AutoRotate = false
+    end
+end
+
+local function enablePlayerControls()
+    local humanoid = LocalPlayer.Character:FindFirstChild("Humanoid")
+    if humanoid then
+        humanoid.AutoRotate = true
+    end
+end
+
+function startKillaura()
+    heartbeatConnection = RunService.Heartbeat:Connect(function()
+        if spinningEnabled and isPlayerNearby() then
+            equipSword()
+            useSword()
+            local sword = LocalPlayer.Character:FindFirstChild(swordName)
+            if sword then
+                spinPlayer()
+                disablePlayerControls()
+            end
+        else
+            unequipSword()
+            enablePlayerControls()
+        end
+    end)
+end
+
+function stopKillaura()
+    if heartbeatConnection then
+        heartbeatConnection:Disconnect()
+        heartbeatConnection = nil
+    end
+    enablePlayerControls()
+    unequipSword()
+end
+
+createToggle("PermReach", blatant, function()
+    local range = 13
+    game:GetService("RunService").RenderStepped:Connect(function()
+        local p = game.Players:GetPlayers()
+        for i = 2, #p do 
+            local v = p[i].Character
+            if v and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 and v:FindFirstChild("HumanoidRootPart") and player:DistanceFromCharacter(v.HumanoidRootPart.Position) <= range then
+                local tool = player.Character and player.Character:FindFirstChildOfClass("Tool")
+                if tool and tool:FindFirstChild("Handle") then
+                    tool:Activate()
+                    for i, v in next, v:GetChildren() do
+                        if v:IsA("BasePart") then
+                            firetouchinterest(tool.Handle, v, 0)
+                            firetouchinterest(tool.Handle, v, 1)
+                        end
+                    end
+                end
+            end
+        end
+    end)
+end, function()
+end)
+
+local InfiniteJumpEnabled = false
+game:GetService("UserInputService").JumpRequest:connect(function()
+    if InfiniteJumpEnabled then
+        game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass('Humanoid'):ChangeState("Jumping")
+    end
+end)
+
+createToggle("AirJump", blatant, function()
+    InfiniteJumpEnabled = true
+end, function()
+    InfiniteJumpEnabled = false
+end)
+
+adjustUIScale()
+
+workspace.GameMusic:Destroy()
