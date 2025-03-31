@@ -1,3 +1,15 @@
+local function console(hi)
+    game.StarterGui:SetCore("DevConsoleVisible", hi)
+end
+print("Hello there user.")
+print("Currently Sky Client has been discontinued and will no longer be worked on.")
+print("Despite it being the first version and it being let go fast, i dont know how i would be able")
+print("To put and add stuff for it.")
+print("I have more legitimate uses of my time with Rise.")
+print("If you would like to use RISE please go to this discord link below:")
+print("https://discord.gg/6gdAgbUhBt")
+print("Rise up to the top being uncompletely undetected.")
+console(true)
 writefile("s.png", game:HttpGet("https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small_2x/warning-sign-icon-transparent-background-free-png.png", true))
 game.StarterGui:SetCore("SendNotification", {
     Title = "Warning!!!";
